@@ -48,6 +48,7 @@ public class Car implements Runnable {
         }
     }
 
+    /*Попытка выполнения другим способом*/
 //    @Override
 //    public void run () {
 //        try {
