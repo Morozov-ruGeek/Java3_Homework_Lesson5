@@ -15,6 +15,7 @@ public class Road extends Stage {
             Thread.sleep(length / c.getSpeed() * 1000 );
 //            Main.roadStage.await();
             System.out.println(c.getName() + " закончил этап: " + description);
+            /*интуитивная попытка выполнения проверки окончания проезда финиша всеми участниками*/
 //            if (this.length == 40){
 //                Main.finishLine.countDown();
 //            }

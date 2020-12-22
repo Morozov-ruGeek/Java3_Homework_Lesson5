@@ -38,7 +38,7 @@ public class Main {
                 e.printStackTrace();
             }
 //        }
-
+        /*Не всегда выходил из цикла. В результате чего программа висла.*/
 //        while (finishLine.getCount() > 0){
 //            try {
 //                Thread.sleep(100);
@@ -47,7 +47,6 @@ public class Main {
 //            }
 //        }
         System.out.println( "ВАЖНОЕ ОБЪЯВЛЕНИЕ >>> Гонка закончилась!!!" );
-
     }
 }
 
